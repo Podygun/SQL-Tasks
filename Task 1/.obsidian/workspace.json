@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задание 1.md",
+                "file": "Задание 2 - сложные запросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задание 1.md",
+                "file": "Задание 2 - сложные запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задание 1.md",
+                "file": "Задание 2 - сложные запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задание 1.md"
+                "file": "Задание 2 - сложные запросы.md"
               }
             }
           }
@@ -147,5 +147,8 @@
     }
   },
   "active": "e9d30b637f9dc673",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Задание 1 - простые запросы.md",
+    "Задание 2 - сложные запросы.md"
+  ]
 }
