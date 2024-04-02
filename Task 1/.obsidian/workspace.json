@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задание 2 - сложные запросы.md",
+                "file": "Задание 2 - простые запросы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e07fed8001789da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задание 3 - сложные запросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Задание 2 - сложные запросы.md",
+                "file": "Задание 2 - простые запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Задание 2 - сложные запросы.md",
+                "file": "Задание 2 - простые запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задание 2 - сложные запросы.md"
+                "file": "Задание 2 - простые запросы.md"
               }
             }
           }
@@ -148,7 +160,11 @@
   },
   "active": "e9d30b637f9dc673",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Задание 2 - простые запросы.md",
+    "Задание 3 - сложные запросы.md",
     "Задание 1 - простые запросы.md",
-    "Задание 2 - сложные запросы.md"
+    "Pasted image 20240313111348.png",
+    "Pasted image 20240313200038.png"
   ]
 }
